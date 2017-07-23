@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Lights</string>
+  <string name="all_white">all white</string>
+  <string name="all_off">all off</string>
+</resources>
