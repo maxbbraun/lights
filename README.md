@@ -7,6 +7,8 @@ LED light ring
 Adafruit Feather 32u4 Bluefruit LE
 
 [Board setup](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup)
+* **Board** Adafruit Feather 32u4
+* **Programmer** USBtinyISP
 
 [APA102 library](https://github.com/pololu/apa102-arduino#software)
 
