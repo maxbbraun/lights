@@ -1,0 +1,47 @@
+Top Solder Paste
+.tcream.ger
+tCream (31)
+
+Bottom Solder Paste
+.bcream.ger
+bCream (32)
+
+Top Copper Layer
+.toplayer.ger
+Top (1)
+Pads (17)
+Vias (18)
+
+Bottom Copper Layer
+.bottomlayer.ger
+Bottom (16)
+Pads (17)
+Vias (18)
+
+Top Silkscreen
+.topsilkscreen.ger
+tPlace (21)
+tNames (25)
+
+Bottom Silk screen
+.bottomsilkscreen.ger
+bPlace (22)
+bNames (26)
+
+Top Solder Mask
+.topsoldermask.ger
+tStop (29)
+
+Bottom Solder Mask
+.bottomsoldermask.ger
+bStop (30)
+
+Board Outline
+.boardoutline.ger
+Dimension (20)
+Milling (46)
+
+Excellon Drill
+.drills.xln
+Drills (44)
+Holes (45)

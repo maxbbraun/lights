@@ -1,0 +1,40 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "light-ring.brd" as of: 9/15/16 11:27 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+LED_1,Top,10.636,3.774,90
+LED_2,Top,10.573,4.682,98.8
+LED_3,Top,10.320,5.559,115
+LED_4,Top,9.791,6.283,137.6
+LED_5,Top,9.031,6.767,155.9
+LED_6,Top,8.172,7.048,166.8
+LED_7,Top,7.287,7.201,173.1
+LED_8,Top,6.383,7.276,177.2
+LED_9,Top,5.443,7.297,180
+LED_10,Top,4.503,7.276,182.8
+LED_11,Top,3.599,7.201,186.9
+LED_12,Top,2.714,7.048,193.2
+LED_13,Top,1.855,6.767,204.1
+LED_14,Top,1.095,6.283,222.4
+LED_15,Top,0.567,5.559,245
+LED_16,Top,0.313,4.682,261.2
+LED_17,Top,0.250,3.774,270
+LED_18,Top,0.313,2.865,278.8
+LED_19,Top,0.567,1.989,295
+LED_20,Top,1.095,1.264,317.6
+LED_21,Top,1.855,0.780,335.9
+LED_22,Top,2.714,0.499,346.8
+LED_23,Top,3.599,0.346,353.1
+LED_24,Top,4.503,0.272,357.2
+LED_25,Top,5.443,0.250,0
+LED_26,Top,6.383,0.272,2.8
+LED_27,Top,7.287,0.346,6.9
+LED_28,Top,8.172,0.499,13.2
+LED_29,Top,9.031,0.780,24.1
+LED_30,Top,9.791,1.264,42.4
+LED_31,Top,10.320,1.989,65
+LED_32,Top,10.573,2.865,81.2
