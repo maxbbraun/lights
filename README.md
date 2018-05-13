@@ -4,13 +4,13 @@ Design and source code for controlling a ring of LEDs via Bluetooth LE.
 
 ## Eagle
 
-The light ring PCB design is defined in an [Eagle project](eagle), which also contains the [bill of materials](eagle/light-ring-bom.xlsx).
+The light ring PCB design is defined in an [Eagle project](eagle) ready for fabrication.
 
 ## Arduino
 
 The PCB is connected to an [Adafruit Feather with BLE](https://www.adafruit.com/product/2829). After [board setup](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) select `Adafruit Feather 32u4` as the board and `USBtinyISP` as the programmer.
 
-The Arduino code is in [`arduino/lights.ino`](arduino/lights.ino). There are three library dependencies:
+The [Arduino code](arduino/lights.ino) has three library dependencies:
 * [APA102](https://github.com/pololu/apa102-arduino#software)
 * [Adafruit Bluefruit LE](https://github.com/adafruit/Adafruit_BluefruitLE_nRF51)
 * [FastGPIO](https://github.com/pololu/fastgpio-arduino)
