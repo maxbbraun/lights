@@ -17,7 +17,7 @@ The [Arduino code](arduino/lights.ino) has three library dependencies:
 
 ## Android
 
-The [Android studio project](android) builds an apk with a background service maintaining the BLE connection.
+The [Android Studio project](android) builds an apk with a background service maintaining the BLE connection.
 
 Bind to the service from another app and send commands using the [AIDL](android/app/src/main/aidl/net/maxbraun/lights) interface.
 
