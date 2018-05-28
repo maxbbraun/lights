@@ -6,7 +6,7 @@ Design and source code for controlling a ring of LEDs via Bluetooth LE.
 
 ## Eagle
 
-The light ring PCB design is defined in an [Eagle project](eagle) ready for fabrication.
+The light ring PCB design is defined in an [Eagle project](eagle) ready for fabrication. It uses [APA102 5050 RGB LEDs](https://www.adafruit.com/product/2343).
 
 ## Arduino
 
