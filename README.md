@@ -1,6 +1,6 @@
 # Lights
 
-Design and source code for controlling a ring of LEDs via Bluetooth LE.
+Design and source code for controlling a ring of LEDs via Bluetooth LE. More context for the project [here](https://medium.com/@maxbraun/smarter-mirrors-and-how-theyre-made-327997b9eff7).
 
 [![Mirror](images/smile.gif)](https://medium.com/@maxbraun/smarter-mirrors-and-how-theyre-made-327997b9eff7)
 
