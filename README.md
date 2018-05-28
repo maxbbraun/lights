@@ -10,9 +10,9 @@ The light ring PCB design is defined in an [Eagle project](eagle) ready for fabr
 
 ## Arduino
 
-The PCB is connected to an [Adafruit Feather with BLE](https://www.adafruit.com/product/2829). After [board setup](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) select `Adafruit Feather 32u4` as the board and `USBtinyISP` as the programmer.
+The PCB (5V) is connected to an [Adafruit Feather with BLE](https://www.adafruit.com/product/2829) (3.3V) with a [logic level converter](https://www.adafruit.com/product/757). After [board setup](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) select `Adafruit Feather 32u4` as the board and `USBtinyISP` as the programmer.
 
-The [Arduino code](arduino/lights.ino) has three library dependencies:
+The [Arduino code](arduino/lights.ino) contains the [pin definitions](lights.ino#L19) and has three library dependencies:
 * [APA102](https://github.com/pololu/apa102-arduino#software)
 * [Adafruit Bluefruit LE](https://github.com/adafruit/Adafruit_BluefruitLE_nRF51)
 * [FastGPIO](https://github.com/pololu/fastgpio-arduino)
